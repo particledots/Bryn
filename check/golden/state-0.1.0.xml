@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bryn pluginVersion="0.1.0">
+  <PARAM id="curve" value="0.0"/>
+  <PARAM id="eocOn" value="0.0"/>
+  <PARAM id="fall" value="3.0"/>
+  <PARAM id="fallGateOn" value="0.0"/>
+  <PARAM id="mode" value="0.0"/>
+  <PARAM id="outChannel" value="7.0"/>
+  <PARAM id="outFnOn" value="0.0"/>
+  <PARAM id="rise" value="44.81404876708984"/>
+  <PARAM id="riseGateOn" value="0.0"/>
+  <PARAM id="sendAs" value="1.0"/>
+  <PARAM id="trigger" value="1.0"/>
+</Bryn>
