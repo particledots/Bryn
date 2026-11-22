@@ -7,7 +7,8 @@ with no published firmware; its manual was used only to understand what the cont
 own. Bryn is Welsh for "hill", as cnōc is Gaelic for a raised landscape. It follows Hillside (the cèis) and reuses its
 engine.
 
-Status: **version 0.1.0, milestone 1 of 2 built and passing every automatic check; waiting for Bryn's test in Logic.**
+Status: **version 0.1.0, finished.** Tested in Logic on 2026-11-22 on both Macs (Apple Silicon M4 and Intel): every
+step of the test worked as described, so milestone 2 was not needed.
 
 ## What it does
 

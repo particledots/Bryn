@@ -1,6 +1,13 @@
 # Changelog
 
-## 0.1.0 (milestone 1: built, waiting for the Logic test)
+## 0.1.0 (finished, 2026-11-22)
+
+- Tested in Logic on both Macs (Apple Silicon M4 and Intel), all 8 steps worked as described: install, the window as
+  drafted, AR with short and long notes, the mapper moving a filter cutoff, ASR hold and release, Loop running on its
+  own and turning round on a key during the fall, Send as Note (A1, A#1, B1) with nothing left hanging after Stop,
+  and the settings and window size restored with a saved project. Milestone 2 was not needed.
+- Automatic checks (GitHub run 45052297482): engine test 515 checks, mapper test 356, plugin-layer check 255, none
+  failed; auval passed as a MIDI effect; pluginval passed at strictness 5 (AU and VST3); universal binary.
 
 - First build: repo layout, build workflow (engine self-test, mapper test, plugin-layer check with window pictures,
   universal AU + VST3, ad-hoc signing, auval as a MIDI effect, pluginval, package with the shared installer,
